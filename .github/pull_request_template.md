@@ -9,6 +9,6 @@
 | Site has a publicly known bug bounty or vulnerability disclosure program    |     |
 | Disclosure policy is publicly available |     |
 | Public URL                              |     |
-| Submission follows the [Diodb schema](https://github.com/CVEDB/programs/blob/master/program-list-schema.json)     |     |
+| Submission follows the [cvedb schema](https://github.com/CVEDB/programs/blob/master/program-list-schema.json)     |     |
 
 Your Twitter handle (Optional): 
