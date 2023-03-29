@@ -27,7 +27,7 @@ navbar:
   
 # Default author settings
 author:
-    name:           disclose.io
+    name:           cvedb.github.io
     title:          Sysops 
     avatar:         logo.svg
 
