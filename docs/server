@@ -1,7 +1,0 @@
----
-permalink: .well-known/matrix/server
----
-
-{
-	"m.server": "cvedb.github.io:8448"
-}
